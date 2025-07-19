@@ -181,6 +181,20 @@ margin-bottom: 0px;
 .sponsor-companies img{
   filter: grayscale(100%);
 }
+/* footer-text */
+.footer{
+  padding: 39px 410px;
+  margin-left: 240px;
+  margin-right: 240;
+  margin-bottom: 216px;
+  margin-top: 130px;
+
+}
+.footer-text{
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 400;
+}
 /* responsive media query */
 @media screen and (max-width: 576px) {
   .navbar, 
